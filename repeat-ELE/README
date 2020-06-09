@@ -1,0 +1,6 @@
+# Platynereis dumerilii repeat element annotation
+
+## Summary
+Annotation of P. dumerilii 'platy-falcon.fa' draft genome assembly. Programs used were the Repeat-Scout, 
+Modeler and Masker. Due to the large output file sizes, this repository only contains the file names and
+the scripts used to generate the data. 
