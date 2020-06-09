@@ -1,0 +1,86 @@
+
+tRNAscan-SE v.2.0.3 (April 2019) scan results (on host mac-arendt54)
+Started: Tue May 28 18:17:10 CEST 2019
+
+------------------------------------------------------------
+Sequence file(s) to search:        /Users/mutemi/Data/Pdum_GENOME_TRANSCRIPTOME/platy.falcon.fa
+Search Mode:                       Eukaryotic
+Results written to:                /Users/mutemi/Data/Pdum_GENOME_TRANSCRIPTOME/tRNA_Pdum.out
+Output format:                     Tabular
+Searching with:                    Infernal First Pass->Infernal
+Isotype-specific model scan:       Yes
+Covariance model:                  /usr/local/lib/tRNAscan-SE/models/TRNAinf-euk.cm
+                                   /usr/local/lib/tRNAscan-SE/models/TRNAinf-euk-SeC.cm
+Infernal first pass cutoff score:  10
+
+Temporary directory:               /var/folders/_0/75dhgjm54ms4_7mxmtkwhmd00000gp/T/
+tRNA secondary structure
+    predictions saved to:          /Users/mutemi/Data/Pdum_GENOME_TRANSCRIPTOME/tRNAmodels_Pdum.ss
+Search statistics saved in:        /Users/mutemi/Data/Pdum_GENOME_TRANSCRIPTOME/tRNAcan-SE_Pdum.stats
+------------------------------------------------------------
+
+First-pass Stats:
+---------------
+Sequences read:         20337
+Seqs w/at least 1 hit:  8704
+Bases read:             2054566777 (x2 for both strands)
+Bases in tRNAs:         1660359
+tRNAs predicted:        21800
+Av. tRNA length:        76
+Script CPU time:        36.86 s
+Scan CPU time:          5986.02 s
+Scan speed:             686.5 Kbp/sec
+
+First pass search(es) ended: Tue May 28 19:32:21 CEST 2019
+
+Infernal Stats:
+-----------
+Candidate tRNAs read:     21800
+Infernal-confirmed tRNAs:     11932
+Bases scanned by Infernal:  2096275
+% seq scanned by Infernal:  0.1 %
+Script CPU time:          71.81 s
+Infernal CPU time:            4662.46 s
+Scan speed:               449.6 bp/sec
+
+Infernal analysis of tRNAs ended: Tue May 28 20:55:49 CEST 2019
+
+Overall scan speed: 381990.9 bp/sec
+
+tRNAs decoding Standard 20 AA:              3785
+Selenocysteine tRNAs (TCA):                 26
+Possible suppressor tRNAs (CTA,TTA,TCA):    10
+tRNAs with undetermined/unknown isotypes:   92
+Predicted pseudogenes:                      8019
+                                            -------
+Total tRNAs:                                11932
+
+tRNAs with introns:     	1132
+
+| Ala-AGC: 3 | Ala-GGC: 3 | Ala-CGC: 1 | Ala-TGC: 10 | Gly-ACC: 16 | Gly-GCC: 8 | Gly-CCC: 2 | Gly-TCC: 3 | Pro-GGG: 2 | Pro-TGG: 2 | Thr-AGT: 9 | Thr-GGT: 1 | Thr-CGT: 1 | Thr-TGT: 8 | Val-AAC: 1 | Val-GAC: 5 | Val-CAC: 12 | Val-TAC: 1 | Ser-AGA: 3 | Ser-GGA: 2 | Ser-CGA: 1 | Ser-TGA: 6 | Ser-ACT: 3 | Ser-GCT: 65 | Arg-ACG: 2 | Arg-GCG: 53 | Arg-CCG: 7 | Arg-TCG: 1 | Arg-CCT: 59 | Arg-TCT: 3 | Leu-AAG: 2 | Leu-CAG: 2 | Leu-TAG: 3 | Leu-CAA: 129 | Leu-TAA: 8 | Phe-AAA: 2 | Phe-GAA: 3 | Asn-ATT: 6 | Asn-GTT: 2 | Lys-CTT: 304 | Lys-TTT: 40 | Asp-ATC: 10 | Asp-GTC: 1 | Glu-CTC: 5 | His-ATG: 1 | His-GTG: 19 | Gln-TTG: 9 | Ile-AAT: 1 | Ile-TAT: 42 | Met-CAT: 5 | Tyr-ATA: 3 | Tyr-GTA: 63 | Supres-CTA: 10 | Supres-TTA: 32 | Cys-ACA: 3 | Cys-GCA: 131 | Trp-CCA: 2 |
+
+Isotype / Anticodon Counts:
+
+Ala     : 1041	  AGC: 41      GGC: 846     CGC: 43      TGC: 111   
+Gly     : 900	  ACC: 137     GCC: 618     CCC: 68      TCC: 77    
+Pro     : 324	  AGG: 61      GGG: 8       CGG: 49      TGG: 206   
+Thr     : 1121	  AGT: 75      GGT: 122     CGT: 130     TGT: 794   
+Val     : 1534	  AAC: 100     GAC: 18      CAC: 1338    TAC: 78    
+Ser     : 1264	  AGA: 78      GGA: 8       CGA: 126     TGA: 142     ACT: 184     GCT: 726   
+Arg     : 1019	  ACG: 171     GCG: 342     CCG: 13      TCG: 69      CCT: 69      TCT: 355   
+Leu     : 482	  AAG: 67      GAG: 5       CAG: 87      TAG: 103     CAA: 174     TAA: 46    
+Phe     : 235	  AAA: 7       GAA: 228                             
+Asn     : 130	  ATT: 9       GTT: 121                             
+Lys     : 376	                            CTT: 312     TTT: 64    
+Asp     : 125	  ATC: 10      GTC: 115                             
+Glu     : 109	                            CTC: 65      TTC: 44    
+His     : 340	  ATG: 20      GTG: 320                             
+Gln     : 581	                            CTG: 177     TTG: 404   
+Ile     : 104	  AAT: 42      GAT: 4       CAT:         TAT: 58    
+Met/iMet: 337	                            CAT: 337                
+Tyr     : 82	  ATA: 5       GTA: 77                              
+Supres  : 72	               CTA: 15      TTA: 38      TCA: 19    
+Cys     : 902	  ACA: 14      GCA: 888                             
+Trp     : 38	                            CCA: 38                 
+SelCys  : 26	                                         TCA: 25    
+
