@@ -1,0 +1,51 @@
+==================================================
+file name: platy.falcon.fa          
+sequences:         20337
+total length: 2054566777 bp  (2054566777 bp excl N/X-runs)
+GC level:         37.73 %
+bases masked:  886897935 bp ( 43.17 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:            34043      6726411 bp    0.33 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:           137290     71160677 bp    3.46 %
+      LINE1           0            0 bp    0.00 %
+      LINE2       66365     38891520 bp    1.89 %
+      L3/CR1       8445      4449361 bp    0.22 %
+
+LTR elements:     23498     19679353 bp    0.96 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII   930       315613 bp    0.02 %
+
+DNA elements:    236203     59663328 bp    2.90 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:    2596471    694985151 bp   33.83 %
+
+Total interspersed repeats:852214920 bp   41.48 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:        5294      2104530 bp    0.10 %
+Simple repeats:  320032     24395223 bp    1.19 %
+Low complexity:   34147      2496023 bp    0.12 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_3.0
+                                         
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../consensi.fa.classified"
+
