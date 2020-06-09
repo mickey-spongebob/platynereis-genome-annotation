@@ -1,0 +1,3 @@
+set -x
+mapper.pl config.txt -d -c -j -m -p genome/pdum -s all_filt_collapsed.fa -t all_collapsed_vs_genome.arf -v
+miRDeep2.pl all_filt_collapsed.fa genome/pdum.fa all_collapsed_vs_genome.arf none cte.fas none
