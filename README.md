@@ -7,4 +7,4 @@ We kindly ask you to acknowledge (when possible) those that generated, analysed 
 contributors is continually growing, thus, we will try to update author lists and mention them where it is best appropriate.
 
 ## Contact
-For any further questions, issues or suggestions, please contact: 50862986+mickey-spongebob@users.noreply.github.com
+For any further questions, issues or suggestions, please contact: kevin.mutemi@embl.de
