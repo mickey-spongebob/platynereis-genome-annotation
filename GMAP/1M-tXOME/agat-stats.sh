@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## Install AGAT @Downloaded the AGAT: Another Gff Analysis Toolkit
 ### https://github.com/NBISweden/AGAT/blob/master/README.md
 
