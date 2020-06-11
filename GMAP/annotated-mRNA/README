@@ -1,0 +1,12 @@
+# A README text file describing the files in this directory
+
+## Overview
+GMAP-GSNAP was used to map a annotated P. dumerilii full-length mRNA sequences to the draft genome assembly i.e. 
+'platy.falcon.fa'. Default settings were used. 
+
+Due to the size of the GMAP output files, the files are gunzip(d) using tar -zvcf option to facilitate downloads. Instead,
+we include a summary text file describing the 'main' features of the mapping.
+
+Updates to follow...
+
+## Contact: kevin.mutemi@embl.de
