@@ -4,6 +4,10 @@
 GMAP-GSNAP was used to map a annotated P. dumerilii full-length mRNA sequences to the draft genome assembly i.e. 
 'platy.falcon.fa'. Default settings were used. 
 
+To date, these annotated mRNA sequences were extracted from GenBank; their accession numbers are in the file FL_accs.txt, and
+only consist of full-length transcripts. 359 sequences were available, with two anomalies: KU206575.1 (Neurotrophin mRNA - a 
+Capitella teleta derived sequence) and AY534532.2, (secreted signalling factor wnt-A mRNA from Nematostella vectensis).
+
 Due to the size of the GMAP output files, the files are gunzip(d) using tar -zvcf option to facilitate downloads. Instead,
 we include a summary text file describing the 'main' features of the mapping.
 
