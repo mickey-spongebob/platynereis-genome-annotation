@@ -20,3 +20,5 @@ gt gff3 -retainids -addintrons pdumgenomev05.gff3 > tmp && mv tmp pdumgenomev05.
 awk -F'\t' -vOFS='\t' '{ if ($2 == ".") {$2="PdumGENOME_v0.5"} print }' pdumgenomev05.gff3 \
 > tmp && mv tmp pdumgenomev05.gff3
 
+## tar zip file
+tar -czvf pdumgenomev0.5.tar.gz pdumgenomev05.gff3
