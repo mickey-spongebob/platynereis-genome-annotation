@@ -84,4 +84,4 @@ awk '{ print $4 }' transcript_locus-merge > IDs.txt
 
 paste -d"\t" genes-gtf-merge IDs.txt > genes-gtf-merge.txt
 
-sed -i 's/-[0-9][0-9]*/0/' genes-gtf-merge.txt
+sed -i 's/-[0-9][0-9]*/1/' genes-gtf-merge.txt
