@@ -1,0 +1,15 @@
+# An overview of the files, scripts and data sources for the genome version pdum_0.5
+
+## Summary
+This folder contains all the file-names and scripts used to generate the genome annotation(s) for Platynereis
+dumerilii version 0.5 (i.e. yet to be fully scaffolded with Hi-C data). All data is to be uploaded to the 
+Ensembl Metazoa database to facilitate easy access to the genome.
+
+For any and all updates, a new folder will be generated under the Ensembl_Metazoa folder so that a legacy
+can be traced. Other Platynereis species datasets can also be hosted under this Ensembl_Metazoa folder. 
+There is a lot of redundancies in this github project. We hope to reduce this in future, but the official
+data releases and updates will be hosted under the Ensembl_Metazoa folder while preliminary analyses will
+continue to take place in Github pages specified in the initial README file.
+
+## Contacts
+kevin.mutemi@embl.de
