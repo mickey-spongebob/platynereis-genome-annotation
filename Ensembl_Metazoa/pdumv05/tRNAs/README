@@ -1,4 +1,4 @@
-# Platynereis dumerilii tRNA gene annotation
+# Platynereis dumerilii genome version 0.5 tRNA gene annotation
 
 ## Summary
 transfer RNA models were predicted using tRNAscan-SE v2.0. The analysis was run locally on a macOS system. Input files included
