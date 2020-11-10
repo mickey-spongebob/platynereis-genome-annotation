@@ -3,3 +3,7 @@
 ## Summary
 transfer RNA models were predicted using tRNAscan-SE v2.0. The analysis was run locally on a macOS system. Input files included
 the 'platy.falcon.fa' genome assembly. 
+
+## Note(s)
+The tRNA-introns-gff3 file was not used for the Ensembl_Metazoa data upload. This is because the exon information
+alone is sufficient to display the data.
