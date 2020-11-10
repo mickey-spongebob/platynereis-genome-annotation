@@ -1,1 +1,9 @@
 # Repeat Masking 'protocol'
+
+## Note(s)
+Currently, the data output containing all the repeat elements and their positions along the genome are too
+large to be hosted in this repository. For that reason, please contact kevin.mutemi@embl.de if you are 
+interested in this file. 
+
+Otherwise, the output files distributed to Ensembl Metazoa for the repeat element
+annotations are: platy.falcon.fa.out, RE-pdumgenomev05.gff3
