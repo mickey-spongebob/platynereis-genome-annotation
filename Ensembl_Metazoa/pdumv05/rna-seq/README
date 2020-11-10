@@ -1,0 +1,14 @@
+# README
+
+## Summary
+This folder contains all the raw RNA-seq reads used to map against the 'platy.falcon.fa.masked' genome
+assembly; to allow for ease in visualising the raw-read mapping via Ensembl Metazoa. For all reads, the STAR
+algorithm was used. In brief, we used the developmental RNA-seq dataset from the Jékely Lab, as well as 
+tissue-specific datasets generated in the Arendt and Tessmar-Raible and Raible Labs, whereas long-read 
+transcriptomes were generated from Tomancak's lab.
+
+All data is labelled accordingly so that the appropriate credit is given. For transcriptome mapping, see the
+transcriptome folder which has specific details of the RNA-seq data utilised to model genes.
+
+## Contact(s)
+kevin.mutemi@embl.de
