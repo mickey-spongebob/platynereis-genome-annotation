@@ -1,9 +1,7 @@
-# Platynereis miRNA annotation
+# Platynereis dumerilii genome version 0.5 miRNA annotation
 
 Small RNA-sequencing reads were mapped to the draft assembly 'platy.falcon.fa' to predict likely miRNAs using the miRDeep2
 algorithm. A manual annotation of potential/putative miRNAs is currently underway.
-
-For more info contact: Luca Santangeli at luca.santangeli@embl.de 
 
 ## Sequencing
 EMBL Genomics Core Facility: Nayara Trevisan Doimo de Azevedo
@@ -13,4 +11,8 @@ Arendt Lab: Luca Santangeli
 miRDeep2 analysis: Richard Copley and Luca Santangeli
 
 ## Manual miRNA annotation
-Luca Santangeli and mickey-spongebob
+Luca Santangeli
+
+## Contact(s)
+Luca Santangeli at luca.santangeli@embl.de
+kevin nzumbi mutemi at kevin.mutemi@embl.de
