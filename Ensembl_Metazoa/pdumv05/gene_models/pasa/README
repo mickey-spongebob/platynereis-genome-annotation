@@ -1,4 +1,4 @@
-# A README file for the PASA pipeline ran to acquire gene models for Platynereis dumerilii pdumv05
+# A README file for the PASA pipeline ran to acquire gene models for Platynereis dumerilii genome version 0.5
 
 ## Summary
 Several transcriptomes were used to align/map against the draft assembly 'platy.falcon.fa.softmasked'
@@ -6,5 +6,5 @@ including PacBio IsoSeq from the Tomancak lab (Bruno Vellutini and Mette Handber
 Illumina-based transcriptome from the Jekely lab. Previously annotated mRNA full-length sequences were also
 used to generate gene models. 
 
-## Contact
+## Contact(s)
 kevin.mutemi@embl.de
