@@ -1,0 +1,18 @@
+# Platynereis dumerilii genome version 0.5 gene-models README file
+
+## Summary
+Several pipelines were tried and tested to attempt building gene models from different transcriptomes incl.
+Jékely labs' life-cycle transcriptome, tissue-specific RNA-seq datasets from the Arendt lab and long-read
+PacBio sequencing from Tomancak's lab. The two pipelines that we thought to be ideal in modelling gene 
+structures from the current assembly include GMAP and PASA. 
+
+Briefly, for the GMAP analyses, an annotated transcriptome (~1 million) and previously annotated full-length
+mRNA sequences were aligned against the genome to gain coordinates of transcripts. We used this annotated
+transcriptome mapping dataset to compare against the PASA pipeline to manually curate reproducible gene
+structures as well as naming the genes based on the transcript ID given by BLAST against proteome databases.
+
+As for the PASA analysis, we followed the PASA pipeline developed by Brian Haas and colleagues. Custom code
+is included in the appropriate folder. 
+
+## Contact(s)
+kevin.mutemi@embl.de
