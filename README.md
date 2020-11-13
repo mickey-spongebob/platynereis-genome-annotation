@@ -1,6 +1,6 @@
 # platynereis-genome(s)
-Detailing the annotation of the Platynereis genome(s).
-
+Detailing the sequencing, assembly and annotation of the Platynereis genome(s), including the development 
+of databases and resources relevant for the _Platynereis_ community and beyond.
 
 ## Notes
 We kindly ask you to acknowledge (when possible) those that generated, analysed and/or acquired the data. The current list of
