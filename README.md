@@ -1,4 +1,4 @@
-# platynereis-genome-annotation
+# platynereis-genome(s)
 Detailing the annotation of the Platynereis genome(s).
 
 
